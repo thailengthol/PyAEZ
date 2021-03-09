@@ -1,3 +1,5 @@
+/'''Developed by me and my colleagues at my current organization (gicait) and forked from my current organization (gicait)'''/
+
 # PyAEZ
 PyAEZ is a python package consisted of many algorithms related to Agro-ecalogical zoning (AEZ) framework. PyAEZ tries to encapsulate all complex calculations in AEZ and try to provide user friendly, and intuitive ways to input data and output results after calculations.
 
